@@ -49,7 +49,7 @@ html {
   }
   
   #tavern-name {
-    border: none;
+    border: 1px;
     background: none;
     outline:0;
   
